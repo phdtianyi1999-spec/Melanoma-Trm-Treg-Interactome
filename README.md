@@ -101,7 +101,7 @@ Figure_7_Riaz.R: Calculates the composite Trm and Th1-like Treg gene signature w
 Figure7_multi.R: Integrates multiple external clinical datasets, performs survival analysis (Overall Survival and Progression-Free Survival) using the composite signature, and generates Kaplan-Meier curves and multi-ROC comparisons across different baseline models.
 
 Data Availability
-Due to patient privacy regulations, our raw sequencing data generated in this study have been deposited in the Genome Sequence Archive (GSA) at the National Genomics Data Center (NGDC), China. These datasets are already publicly accessible to all readers globally under the following accession codes: scRNA-seq data [HRA005837] and spatial transcriptomics data [HRA004456]. 
+Due to patient privacy regulations, our raw sequencing data generated in this study have been deposited in the Genome Sequence Archive (GSA) at the National Genomics Data Center (NGDC), China. These datasets are already publicly accessible to all readers globally under the following accession codes: scRNA-seq data [HRA005837] and spatial transcriptomics data [HRA004456]. A downsampled, lightweight version of the dataset (demo_dataset.rds, ~20MB) is provided directly in this repository for demonstration and code-testing purposes.
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
